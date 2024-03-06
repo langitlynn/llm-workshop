@@ -2,7 +2,7 @@
 
 ***IMPORTANT:***
 - FORKED from Argonne's Workshop, used by permission for team preparation, I did initial updating
-- UPDATED and presented at https://github.com/dimi-lab/llm-learning/ ***USE THIS ONE***
+- UPDATING and shared at https://github.com/dimi-lab/llm-learning/ ***CHECK THIS ONE TOO***
 
 All LLM training notebooks authored by Argonne National Laboratory team.   
 The  workshop activities rely on Jupyter Notebooks which are targeted for running on [Google's Colaboratory Platform](https://colab.research.google.com).  
